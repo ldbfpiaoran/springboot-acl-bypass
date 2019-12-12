@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "com.neo.Application",
+            "projectName": "spring-boot-helloworld"
+        }
+    ]
+}

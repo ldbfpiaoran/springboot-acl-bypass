@@ -3,10 +3,10 @@
 
 都是getRequestURI的大锅
 
-//inter/hello
-/open/..;/inter/hello
-/open/../inter/hello
-/inter/hello.aaaaa
-/inter/hello;a.js
-各种大坑接连不断
-谨慎背锅
+//inter/hello  
+/open/..;/inter/hello  
+/open/../inter/hello  
+/inter/hello.aaaaa  
+/inter/hello;a.js  
+各种大坑接连不断  
+谨慎背锅  
